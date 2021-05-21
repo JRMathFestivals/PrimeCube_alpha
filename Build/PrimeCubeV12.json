@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prime Cube",
+"productVersion": "0.1",
+"dataUrl": "PrimeCubeV12.data.unityweb",
+"wasmCodeUrl": "PrimeCubeV12.wasm.code.unityweb",
+"wasmFrameworkUrl": "PrimeCubeV12.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
